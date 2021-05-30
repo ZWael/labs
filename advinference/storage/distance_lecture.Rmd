@@ -62,7 +62,7 @@ First 10 rows and five columns of gene expression matrix
 ```{r,echo=FALSE}
 library(tissuesGeneExpression)
 data(tissuesGeneExpression)
-table(tisse)
+table(tissue)
 ```
 
 # Distance in high dimensions
